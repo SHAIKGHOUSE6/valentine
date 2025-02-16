@@ -190,6 +190,11 @@ footer {
     color: white;
 }
 
+.snapchat{
+     background: #E1306C;
+    color: white;
+}
+    
 /* Header Styling */
 .menu-button {
     background: rgba(255, 255, 255, 0.3);
